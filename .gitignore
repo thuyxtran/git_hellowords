@@ -1,3 +1,6 @@
+log/*
+.pb
+.config
 .config
 log/*
 !login002.txt
